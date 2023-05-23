@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    max-width: 1300px;
+    margin: 20px auto;
+    border:  none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px 10px hotpink;
+}
+
+* {
+    margin: 0px;
+    padding: 0px; 
+}
+
+.section_a {
+    background-image: url(../image/HD-wallpaper-oneplus-red-artwork-abstract.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px ;
+}
+
+.section_a p {
+    font-size: 35px;
+    font-weight: 700;
+    padding-top: 70px;
+}
+
+.celtics {
+    height: 30px;
+    padding: 5px;
+    margin: 5px auto;
+    border-radius: 5px solid 1px;
+    margin-bottom: 20px;
+
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.div_dix {
+    border: solid 1px gray;
+    border-radius: 3px;
+    height: 32px;
+    width: 50%;
+    padding: 10px 0px 0px 2px;
+    margin: 5px;
+}
+.mix {
+    display: flex;
+    justify-content: space-around;
+}
+.big_title select {
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.big_mind .celtics {
+    width: 30%;
+    margin:0px 20px 20px 0px ;
+}
+
+.container .celtics {
+    width: 48%;
+}
+
+.container select {
+    height: 43px;
+    width: 49%;
+    font-size: 18px;
+    padding: 5px;
+    margin: 5px auto;
+    border-radius: 5px solid 2px;
+    margin-bottom: 20px;
+    
+}
+
+.gender_form input {
+    margin: 10px 0px 20px;
+}
+
+.power_mind .celtics {
+    width: 97%;
+}
+
+.button_button {
+    text-align: center;
+    align-items: center;
+}
+::placeholder {
+    color: black;
+    font-size: 18px;
+}
+button {
+    width: 120px;
+    height: 30px;
+    color: white;
+    background-color: hotpink;
+    border: none;
+    border-radius: 5px;
+}
